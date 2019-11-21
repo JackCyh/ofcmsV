@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../ofcms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ofcms/ofcms-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ofcms/ofcms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ofcms/ofcms-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ofcms/ofcms-front" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../ofcms/ofcms-model" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
